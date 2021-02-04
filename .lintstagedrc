@@ -1,6 +1,0 @@
-{
-  "**/*.{scss,html,json,js,jsx,yml,md}": [
-    "prettier --write",
-    "git add"
-  ]
-}
